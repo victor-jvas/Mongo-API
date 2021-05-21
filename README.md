@@ -2,6 +2,15 @@
 
 
 The project is a CRUD for a infected person entity created for the DIO Bootcamp lab. The person has id, date of birth, gender and location.
+```
+{
+	"dataNascimento": "1990-03-01",
+	"sexo": "M",
+	"latitude": -23.5630994,
+	"longitude": -46.6565712
+}
+```
+
 
 ## Tech
 * C#
